@@ -1,0 +1,15 @@
+body {
+  background: black;
+}
+.header__title, .footer__data {
+  color: orange;
+}
+.main__title {
+  color: green;
+}
+.main__description {
+  color: red;
+}
+.main__quot {
+  color: pink;
+}
