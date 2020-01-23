@@ -1,0 +1,18 @@
+body {
+  background: black;
+}
+.header__title, .footer__data {
+  color: orange;
+}
+.main__title {
+  color: green;
+  font-family: 'Pacifico', cursive;
+
+}
+.main__description {
+  color: red;
+  font-family: 'Amatic SC', cursive;
+}
+.main__quot {
+  color: pink;
+}
