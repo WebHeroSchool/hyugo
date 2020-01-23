@@ -6,12 +6,12 @@ body {
 }
 .main__title {
   color: green;
-  font-family: arial
+  font-family: 'Pacifico', cursive;
 
 }
 .main__description {
   color: red;
-  font-family: marker felt
+  font-family: 'Amatic SC', cursive;
 }
 .main__quot {
   color: pink;
