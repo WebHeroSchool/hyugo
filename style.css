@@ -6,9 +6,12 @@ body {
 }
 .main__title {
   color: green;
+  font-family: arial
+
 }
 .main__description {
   color: red;
+  font-family: marker felt
 }
 .main__quot {
   color: pink;
